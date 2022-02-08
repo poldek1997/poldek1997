@@ -22,15 +22,15 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
   >Website: - c# .Net MVC5, Dapper, LINQ<br/>
   >Desktop application: c# WindowsForms, ADO NET<br/>
   >Link to website: 🔗 https://nawrot-stock.pl/<br/><br/>
-  >*This project is used by Nawrot sp. z o.o. company comercialy and its repository is set to private. For more informations please contact me directly.*
+  >*This project is used by Nawrot sp. z o.o. commercially and its repository is set to private. For more information please contact me directly.*
 <br/>
 
 ▶️ TLC - Tetra Salary Calculator<br/>  
    
-> This project was also created for Nawrot. It is used by employees to calculate their salary according to financial results they achieved. This application is database software that allows salesmen to store data relted to sold vehicles. The system can also provide multiple statistics for the company's manager. The application includes authorization and rights systems, so the salesmen can only see their own sales records, and the administrator can see the results of all of his employees. This Software helps the company to extract statistics, and control sales records. It is also used to evaluate salesmen based on their performance.<br/><br/>
+> This project was also created for Nawrot. It is used by employees to calculate their salary according to financial results they achieved. This application is database software that allows salesmen to store data relted to sold vehicles. The system can also provide multiple statistics for the company's manager. The application includes authorization and rights systems, so the salesmen can only see their own sales records, and the administrator can see the results of all of his employees. This Software helps the company extract statistics, and control sales records. It is also used to evaluate salesmen based on their performance.<br/><br/>
   > Technology used in project:<br/>
   > c# WindowsForms, ADO NET, LINQ, SQL, T-SQL<br/><br/>
-  > *This project is used by Nawrot sp. z o.o. comercialy and its repository is set to private. For more informations please contact me directly.*
+  > *This project is used by Nawrot sp. z o.o. commercially and its repository is set to private. For more information please contact me directly.*
   
   <br/>
 
