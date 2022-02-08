@@ -1,5 +1,5 @@
-## Hi there 👋, I am Michał Dąbrowski and 
-#### I am a freelancer, coding in c# .NET Framework and .NET Core
+## Hi there 👋, I am Michał Dąbrowski and welcome to my github
+### I am a freelancer, coding in c# .NET Framework and .NET Core
 
 ![I am a freelancer, coding in c# .NET Framework and Core](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
