@@ -7,15 +7,15 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
 
 ## Skills and Main Projects
 
-#### Skills<br/><br/>
+#### Skills<br/>
   ▶️ C#, .Net Core, .NET Framework, .NET MVC<br/>
   ▶️ LINQ, WPF, WinForms<br/>
   ▶️ SQL<br/>
   ▶️ CSS, HTML, Basics of JavaScript<br/>
   
-➖**Main Projects**
-  ▶️ International Auto Market
-  ▶️ TLC - Tetra Salary Calculator
+#### Main Projects<br/>
+  ▶️ International Auto Market<br/>
+  ▶️ TLC - Tetra Salary Calculator<br/>
   
 ## More About Me
 
