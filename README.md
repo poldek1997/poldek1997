@@ -30,7 +30,6 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
   >c# WindowsForms, ADO NET, LINQ, SQL, T-SQL<br/>
   >*This project is used by Nawrot sp. z o.o. company comercialy and its repository is set to private. For more informations please contact me directly.*
   
-<br/>
 
 ## More About Me
 
