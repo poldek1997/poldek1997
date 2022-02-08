@@ -7,8 +7,8 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
 
 ## Skills and Main Projects
 
-➖**Skills**
-  ▶️ C#, .Net Core, .NET Framework, .NET MVC
+➖**Skills**<br/>
+  ▶️ C#, .Net Core, .NET Framework, .NET MVC<br/>
   ▶️ LINQ, WPF, WinForms
   ▶️ SQL
   ▶️ CSS, HTML, Basics of JavaScript
