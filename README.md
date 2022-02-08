@@ -7,11 +7,11 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
 
 ## Skills and Main Projects
 
-####Skills</br></br>
-  ▶️ C#, .Net Core, .NET Framework, .NET MVC
-  ▶️ LINQ, WPF, WinForms
-  ▶️ SQL
-  ▶️ CSS, HTML, Basics of JavaScript
+#### Skills<br/><br/>
+  ▶️ C#, .Net Core, .NET Framework, .NET MVC<br/>
+  ▶️ LINQ, WPF, WinForms<br/>
+  ▶️ SQL<br/>
+  ▶️ CSS, HTML, Basics of JavaScript<br/>
   
 ➖**Main Projects**
   ▶️ International Auto Market
