@@ -17,11 +17,11 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
   
 #### Main Projects<br/>
   ▶️ International Auto Market<br/>
-  >This project was created for Nawrot sp. z o.o. company and it consist of web aplication *("International Auto Market")* and desktop aplication *("StockTools")*. Web application provides enviroment for customers to browse cars. If new client wants to see lists of current available vehicles on stock he has to create account firs, and he has to be accepted in desktop application by system provider employee. To attract new clients, website also contains tab with about company and contact. Employees of Nawrot compnay can perform CRUD operations in desktop application to live add/edit/remove cars on website. *"StockTools"* provides many other actions (such as generating vehicles offers to pdf, exporting database data to xlsx, system of proving new clients, automatic email sending, and many others..). <br/>
-  >Technology:<br/> 
+  >This project was created for Nawrot sp. z o.o. company and it consist of web aplication *("International Auto Market")* and desktop aplication *("StockTools")*. Web application provides enviroment for customers to browse cars. If new client wants to see lists of current available vehicles on stock he has to create account firs, and he has to be accepted in desktop application by system provider employee. To attract new clients, website also contains tab with about company and contact. Employees of Nawrot compnay can perform CRUD operations in desktop application to live add/edit/remove cars on website. *"StockTools"* provides many other actions (such as generating vehicles offers to pdf, exporting database data to xlsx, system of proving new clients, automatic email sending, and many others..). <br/><br/>
+  >Technology used in project:<br/> 
   >Website: - .Net MVC5, Dapper, LINQ<br/>
   >Desktop application: WindowsForms, ADO NET<br/>
-  >Link to website: 🔗 https://nawrot-stock.pl/<br/>
+  >Link to website: 🔗 https://nawrot-stock.pl/<br/><br/>
   >*This project is used by Nawrot sp. z o.o. company comercialy and its repository is set to private. For more informations please contact me directly.*
   ▶️ TLC - Tetra Salary Calculator<br/>
 
