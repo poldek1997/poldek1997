@@ -23,8 +23,10 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
   >Desktop application: WindowsForms, ADO NET<br/>
   >Link to website: 🔗 https://nawrot-stock.pl/<br/><br/>
   >*This project is used by Nawrot sp. z o.o. company comercialy and its repository is set to private. For more informations please contact me directly.*
+<br/>
   ▶️ TLC - Tetra Salary Calculator<br/>
-
+  >This project
+<br/>
 ## More About Me
 
 🔭 I’m currently working on desktop application for entire export department of Nawrot company using c# WPF <br/>
