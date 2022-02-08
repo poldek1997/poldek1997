@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Michał Dąbrowski
+## Hi there 👋, I am Michał Dąbrowski and 
 #### I am a freelancer, coding in c# .NET Framework and .NET Core
 
 ![I am a freelancer, coding in c# .NET Framework and Core](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -10,6 +10,7 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
 #### Skills<br/>
   ▶️ C#, .Net Core, .NET Framework, .NET MVC<br/>
   ▶️ LINQ, WPF, WinForms<br/>
+  ▶️ ADO.NET, EntityFramework Core, Dapper<br/>
   ▶️ SQL<br/>
   ▶️ CSS, HTML, Basics of JavaScript<br/>
   
