@@ -29,7 +29,7 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
    
 > This project was also created for Nawrot company. Its beeing used by employees to calculate their salary according to financial results they achieved. This application is database software that allows sellers to store data about sold vehicles. System can also provide multiple statistics for company manager. Application provides authorization and rights system, so sellers can only see their own sales records, and the administrator can see the results of all of his employees. This Software helped company to extract statistics, and control data about sales recors and sellers. It is also used to evaluate sellers acording to their sales records.<br/><br/>
   > Technology used in project:<br/>
-  > c# WindowsForms, ADO NET, LINQ, SQL, T-SQL<br/>
+  > c# WindowsForms, ADO NET, LINQ, SQL, T-SQL<br/><br/>
   > *This project is used by Nawrot sp. z o.o. company comercialy and its repository is set to private. For more informations please contact me directly.*
   
   <br/>
@@ -43,7 +43,7 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/poldek1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100003146918942)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poldek1997)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poldek1997&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=poldek1997&show_icons=true&count_private=true)  
 
