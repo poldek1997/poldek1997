@@ -4,6 +4,8 @@
 
 I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsible for administrating our interior database and providing new IT solutions for our company. For two years of work here I've developed from scratch two applications. Both of them are currently in use by our employees. In my free time I'm developing my c# and JavaScript skills. 
 
+## Skills and Main projects
+
 Skills: C#, .NET Core, .NET Framework, LINQ, WPF, WinForms, SQL, CSS, HTML, Basics of JavaScript
 
 - 🔭 I’m currently working on desktop application for entire export department of Nawrot company using c# WPF 
