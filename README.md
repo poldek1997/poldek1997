@@ -3,7 +3,7 @@
 
 ![I am a freelancer, coding in c# .NET Framework and Core](https://raw.githubusercontent.com/poldek1997/poldek1997/main/Micha%C5%82%20D%C4%85browski.png)
 
-I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsible for administrating our internal database and providing new IT solutions for our company. In two years of working here, I have developed two applications from scratch. Both of them are currently in use by our employees. In my free time I'm increasing my programming knowledge.
+I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsible for administrating our internal database and providing new IT solutions for the company. In two years of working here, I have developed two applications from scratch. Both of them are now in use by our employees. In my free time, I increase my programming knowledge.
 
 ## Skills and Main Projects
 
