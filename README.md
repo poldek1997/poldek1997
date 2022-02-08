@@ -25,10 +25,10 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
   >*This project is used by Nawrot sp. z o.o. company comercialy and its repository is set to private. For more informations please contact me directly.*
 <br/>
   ▶️ TLC - Tetra Salary Calculator<br/>
-  >This project was also created for Nawrot company. Its beeing used by employees to calculate their salary according to financial results they achieved. This application is database software that allows sellers to store data about sold vehicles. System can also provide multiple statistics for company manager. Application provides authorization and rights system, so sellers can only see their own sales records, and the administrator can see the results of all of his employees. This Software helped company to extract statistics, and control data about sales recors and sellers. It is also used to evaluate sellers acording to their sales records.<br/><br/>
-  >Technology used in project:<br/>
-  >c# WindowsForms, ADO NET, LINQ, SQL, T-SQL<br/>
-  >*This project is used by Nawrot sp. z o.o. company comercialy and its repository is set to private. For more informations please contact me directly.*
+  > This project was also created for Nawrot company. Its beeing used by employees to calculate their salary according to financial results they achieved. This application is database software that allows sellers to store data about sold vehicles. System can also provide multiple statistics for company manager. Application provides authorization and rights system, so sellers can only see their own sales records, and the administrator can see the results of all of his employees. This Software helped company to extract statistics, and control data about sales recors and sellers. It is also used to evaluate sellers acording to their sales records.<br/><br/>
+  > Technology used in project:<br/>
+  > c# WindowsForms, ADO NET, LINQ, SQL, T-SQL<br/>
+  > *This project is used by Nawrot sp. z o.o. company comercialy and its repository is set to private. For more informations please contact me directly.*
 <br/>
 
 ## More About Me
