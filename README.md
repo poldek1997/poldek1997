@@ -19,9 +19,9 @@ I'm curently working in Nawrot Sp. z o.o. as ICT Support Engineer. I am responsi
 
 ## More About Me
 
-🔭 I’m currently working on desktop application for entire export department of Nawrot company using c# WPF 
-🌱 I’m currently learning C#, JavaScript 
-📫 How to reach me: +48 669 817 859 / m.dabrowsk1223@gmail.com 
+🔭 I’m currently working on desktop application for entire export department of Nawrot company using c# WPF <br/>
+🌱 I’m currently learning C#, JavaScript <br/>
+📫 How to reach me: +48 669 817 859 / m.dabrowsk1223@gmail.com <br/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/poldek1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100003146918942)  
