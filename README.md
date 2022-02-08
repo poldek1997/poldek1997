@@ -1,4 +1,4 @@
-## Hi there 👋, I am Michał Dąbrowski and welcome to my github
+## Hi there 👋, I am Michał Dąbrowski and welcome to my github profile
 ### I am a freelancer, coding in c# .NET Framework and .NET Core
 
 ![I am a freelancer, coding in c# .NET Framework and Core](https://raw.githubusercontent.com/poldek1997/poldek1997/main/Micha%C5%82%20D%C4%85browski.png)
